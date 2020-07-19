@@ -1,2 +1,1 @@
-fido = Dog.new
-fido.bark
+class Dog 
